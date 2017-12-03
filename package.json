@@ -1,0 +1,28 @@
+{
+  "name": "react-native-udp",
+  "version": "0.0.1",
+  "author": "Michael Cavallaro",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzimbler/react-native-udp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zzimbler/react-native-udp/issues"
+  },
+  "homepage": "https://github.com/zzimbler/react-native-udp",
+  "keywords": [
+    "react-native",
+    "android",
+    "library",
+    "udp"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
