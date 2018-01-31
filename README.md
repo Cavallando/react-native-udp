@@ -1,5 +1,5 @@
 ## React Native UDP Android Library 
-This project serves as a React Native Module to be specifically implemented with Android Devices
+This project serves as a React Native Module to send packets over UDP to a server through a given port. Specifically to be implemented with Android Devices.
 
 ## Callable Methods
   ```java
