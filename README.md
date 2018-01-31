@@ -25,7 +25,7 @@ This project serves as a React Native Module to send packets over UDP to a serve
       try {
          var {
             response
-         } = await UDPReact.sendUDPPacket(message, 'server', 12345));
+         } = await UDPReact.sendUDPPacket(message, '127.0.0.1', 12345));
   
       } catch (e) {
          console.error(e);
